@@ -17,7 +17,7 @@
     "redux": "^4.0.5",
     "web-vitals": "^1.1.0"
   },
-  "homepage": "https://nasmus.github.io/limkedin-clone",
+  "homepage": "https://nasmus.github.io/linkedin-clone",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
